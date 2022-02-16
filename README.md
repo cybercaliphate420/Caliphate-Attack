@@ -4,7 +4,5 @@ This is Danger
 
 
         git clone https://github.com/cybercaliphate420/Caliphate-Attack
-    
         cd Caliphate-Attack
-
-        python Caliphate's-Attack.py
+        python Caliphate-Attack.py
